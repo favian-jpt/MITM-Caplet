@@ -7,4 +7,6 @@ You can customize your content according to you.
 
 It is important that you write your own victim ip, which is the name of the address in the target section, where you will be attacking the mitm.
 
-
+## Usage
+sudo apt install bettercap <br>
+bettercap -caplet mitm-https-downgrade.cap<br>
